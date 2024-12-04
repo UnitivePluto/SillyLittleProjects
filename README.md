@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to deal with life and a ton of machine learning.
 
 In all seriousness, I enjoy coding and I wanna challenge myself by doing silly little projects. SOOOOOOO this is the repo where I show case them. 
-Current challenge: 5 PROJECTS IN 15 DAYS LESGOOOOOOOOOOOOOOOOOOOO.
+Current challenge: Completing atleast 2 new projects before january 15th
 
 <!---
 UnitivePluto/UnitivePluto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
