@@ -1,9 +1,10 @@
 #Main
-import Display_screen
-import Viewmod
-import Updatemod
-import Insertmod
 import Deletemod
+import Display_screen
+import Insertmod
+import Updatemod
+import Viewmod
+
 Display_screen.dis()
 p="A"
 print('''-----------------------Management Login-----------------------''')
