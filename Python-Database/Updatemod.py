@@ -1,5 +1,7 @@
 #update module
 import mysql.connector
+
+
 def update1():
     E_Id=int(input("Enter Employee id: "))
     E_id2=int(input("Enter new Employee id(if no new value, enter old value): "))
